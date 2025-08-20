@@ -1,1 +1,2 @@
-# Repositorio de GitHub: https://github.com/santino-fiorentini/UTN-TUPaDProgramacion1
+# Repositorio de GitHub
+print(str("https://github.com/santino-fiorentini/UTN-TUPaDProgramacion1"))
